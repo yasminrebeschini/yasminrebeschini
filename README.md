@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY205amwyMzNhYnRpZWVlNmN2aTMwYW9jenY4YnI5Z2tyZm1na2x1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bbshzgyFQDqPHXBo4c/giphy.webp)
 <!--
 **yasminrebeschini/yasminrebeschini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
